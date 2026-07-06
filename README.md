@@ -13,9 +13,11 @@ Melomaniac is an iOS application that helps users explore and discover music gen
 
 ### Genre Selection
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-05 at 12 25 06" src="https://github.com/user-attachments/assets/7a3795a5-435f-47b1-90a8-5a26c9830d2c" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-05 at 12 26 55" src="https://github.com/user-attachments/assets/edcc7695-067e-4c48-9f01-064a5f1fc14d" />
 
 ### Genre Details
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-05 at 12 26 55" src="https://github.com/user-attachments/assets/edcc7695-067e-4c48-9f01-064a5f1fc14d" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-05 at 16 08 07" src="https://github.com/user-attachments/assets/744f5bf1-4313-4b91-9cbf-2946fd065e3e" />
+
 
 
 ## Features
